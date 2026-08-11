@@ -13,10 +13,17 @@
     },
     {
       "name": "Blatant",
-      "file": "rage.json",
+      "file": "blatant.json",
       "credits": "scriptedlantern",
       "tags": [],
-      "description": "Blatant config for your needs.."
+      "description": "Blatant config for your needs.."  
+    },
+    {
+      "name": "lanternvape",
+      "file": "lanternvape.json",
+      "credits": "scriptedlantern",
+      "tags": [],
+      "description": "official default config"  
     }
   ]
 }
