@@ -3,20 +3,20 @@
     {
       "name": "CC",
       "file": "cc.json",
-      "credits": "plutoxqqqq",
+      "credits": "scriptedlantern",
       "tags": [
         "Legit",
         "Closet",
         "Combat"
       ],
-      "description": "Balanced closet-combat config tuned to look legit."
+      "description": "Get nightmare rank with the best CC config on the planet."
     },
     {
-      "name": "Rage",
+      "name": "Blatant",
       "file": "rage.json",
-      "credits": "plutoxqqqqq",
+      "credits": "scriptedlantern",
       "tags": [],
-      "description": "Community config submitted by plutoxqqqqq."
+      "description": "Blatant config for your needs.."
     }
   ]
 }
